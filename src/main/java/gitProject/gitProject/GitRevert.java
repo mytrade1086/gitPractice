@@ -6,5 +6,9 @@ public class GitRevert {
 	// git revert can be used to go back to that state
 
 	//line 1   see only one line here
+	
+	
+	
+	//line 2 added
 
 }
