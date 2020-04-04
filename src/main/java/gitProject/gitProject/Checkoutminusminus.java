@@ -9,7 +9,7 @@ public class Checkoutminusminus {
 	//We add line 3 in local and save
 	//Now we think we don't need line 3.
 	//1. delete line 3 manually or 
-	//2. git checkout -- <filename>  Observe the clipse after that . Line 3 will be gone 
+	//2. git checkout -- <filename>  Observe the eclipse after that . Line 3 will be gone 
 	
 	
 	//LINE1
